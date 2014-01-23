@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config version="1.3.0">
+	<client>
+		<mongoPoolSize>250</mongoPoolSize>
+		<executeTimeout>300</executeTimeout>
+		<maxActiveQueryThread>200</maxActiveQueryThread>
+		<maxActiveUpdateThread>40</maxActiveUpdateThread>
+		<maxActiveDeleteThread>10</maxActiveDeleteThread>
+	</client>
+	<nodes>
+		<node id="192.168.1.200" url="192.168.1.200" port="27017" database="dovebox" username="" password="" name="Testing mongos" description="3 shards.">
+		</node>
+		<!--node id="192.168.1.67" url="192.168.1.67" port="20217" database="dovebox" username="" password="" name="67 machine" description="3 sharings.">
+		</node-->
+	</nodes>
+	<idServer>
+		<node id="id_server:192.168.1.200" url="192.168.1.200" port="27017" database="dovebox" username="" password="" name="Testing mongos" description="Auto increament id">
+		</node>
+	</idServer>
+</Config>

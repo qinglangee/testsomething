@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+	<FileType typeId='1' typeName='type1' />
+	<FileType typeId='2' typeName='type2' />
+	<FileType typeId='3' typeName='type3' />
+	<UserInSharedSystem userId='1' loginName='2' userNo='a' />
+	<DefaultFile fileId='1' fileName='a1' fileSize='10'
+		fileStatus='1' pickupCode='4414402888619758' releaseDate='2006-1-31 16:17:18'
+
+		storageFileHome='solar' storageFileId='1' userId='1' typeId='1'
+
+		description='ss' expiredDate='2006-1-31 16:17:18' uploadDate='2006-1-31 16:17:18'
+		extName='exe' totalPoints='0' currentMonthPoints='0' lastMonthPoints='0' />
+	<DefaultFile fileId='2' fileName='a2' fileSize='20'
+		fileStatus='1' pickupCode='4414402888619759' releaseDate='2006-1-31 16:17:18'
+
+		storageFileHome='solar' storageFileId='2' userId='1' typeId='2'
+
+		description='ss' expiredDate='2006-1-31 16:17:18' uploadDate='2006-1-31 16:17:18'
+		extName='exe' totalPoints='0' currentMonthPoints='0' lastMonthPoints='0' />
+	<DefaultFile fileId='3' fileName='a3' fileSize='30'
+		fileStatus='1' pickupCode='4414402888619768' releaseDate='2006-1-31 16:17:18'
+
+		storageFileHome='solar' storageFileId='3' userId='1' typeId='3'
+
+		description='ss' expiredDate='2006-1-31 16:17:18' uploadDate='2006-1-31 16:17:18'
+		extName='exe' totalPoints='0' currentMonthPoints='0' lastMonthPoints='0' />
+	<FileTag tagId='1' tagName='t1' />
+	<FileTag tagId='2' tagName='t2' />
+	<FileTag tagId='3' tagName='t3' />
+	<FileTagRel fileId='1' tagId='1' />
+	<FileTagRel fileId='1' tagId='2' />
+	<FileTagRel fileId='2' tagId='1' />
+	<FileTagRel fileId='2' tagId='3' />
+	<FileTagRel fileId='3' tagId='2' />
+</dataset>

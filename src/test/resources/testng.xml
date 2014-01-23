@@ -1,0 +1,25 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite1" verbose="1" parallel="methods" thread-count="5">
+	<parameter name="nearbyVillageTimeout" value="2000" />
+	<parameter name="temp" value="abcdefg" />
+	<test name="basicTest">
+		<!--
+		<groups>
+			<run>
+				<include name="running" />
+			</run>
+		</groups>
+		 -->
+		<packages>
+			<package name="com.zhch" />
+		</packages>
+		<!-- 
+		<classes>
+			<class name="com.lifeix.test.eatables"></class>
+		</classes>
+		
+		 -->
+	</test>
+</suite>
+
+

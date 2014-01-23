@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+	<!-- email 节点 -->
+	<emailNodes>http://192.168.1.17:8080/lifeix_email/</emailNodes>
+	
+	<!-- memcached 节点-->
+    <memcachedEnabled>true</memcachedEnabled>
+    <memcachedNodes>n1:192.168.1.53:10101 n2:192.168.1.53:10102</memcachedNodes>
+</Config>

@@ -1,0 +1,280 @@
+<iq to="15101@im.l99.com/com.l99.web:::1.0:::web:::web" type="result"
+	id="veQ5i-40" xmlns="jabber:client">
+	<query xmlns="jabber:iq:historyMsg">
+		<msgs>
+			<day date="2012-10-09">
+				<message to="15101@im.l99.com"
+					from="3090852@im.l99.com/com.l99.web:::1.0:::web:::web">
+					<body> sdfsfs
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349782479264</sendTime>
+				</message>
+				<message to="3090852@im.l99.com" from="15101@im.l99.com/com.l99.web:::1.0:::web:::web">
+					<body> sfsfsf
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349782509602</sendTime>
+				</message>
+				<message to="15101@im.l99.com"
+					from="3090852@im.l99.com/com.l99.web:::1.0:::web:::web">
+					<body>sdss
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349782547235</sendTime>
+				</message>
+				<message to="15101@im.l99.com"
+					from="3090852@im.l99.com/com.l99.web:::1.0:::web:::web">
+					<body>bb
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349782601000</sendTime>
+				</message>
+				<message to="15101@im.l99.com"
+					from="3090852@im.l99.com/com.l99.web:::1.0:::web:::web">
+					<body> qw
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349782715910</sendTime>
+				</message>
+				<message to="15101@im.l99.com"
+					from="3090852@im.l99.com/com.l99.web:::1.0:::web:::web">
+					<body>44
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349782821719</sendTime>
+				</message>
+				<message to="15101@im.l99.com"
+					from="3090852@im.l99.com/com.l99.web:::1.0:::web:::web">
+					<body>66
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349782832907</sendTime>
+				</message>
+				<message to="15101@im.l99.com"
+					from="3090852@im.l99.com/com.l99.web:::1.0:::web:::web">
+					<body>22/1349783151259_gh9s0z.png</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349783193781</sendTime>
+				</message>
+				<message to="15101@im.l99.com"
+					from="3090852@im.l99.com/com.l99.web:::1.0:::web:::web">
+					<body> gg
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349783736787</sendTime>
+				</message>
+				<message from="3090852@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="15101@im.l99.com">
+					<body> sdf
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349784387805</sendTime>
+				</message>
+				<message from="3090852@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="15101@im.l99.com">
+					<body>aaa
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349784399523</sendTime>
+				</message>
+				<message to="15101@im.l99.com"
+					from="3090852@im.l99.com/com.l99.web:::1.0:::web:::web">
+					<body> bb
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349784910499</sendTime>
+				</message>
+				<message to="3090852@im.l99.com" from="15101@im.l99.com/com.l99.web:::1.0:::web:::web">
+					<body> ss
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349784919871</sendTime>
+				</message>
+				<message to="15101@im.l99.com"
+					from="3090852@im.l99.com/com.l99.web:::1.0:::web:::web">
+					<body>as
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349784926885</sendTime>
+				</message>
+				<message to="3090852@im.l99.com" from="15101@im.l99.com/com.l99.web:::1.0:::web:::web">
+					<body>df
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349784931791</sendTime>
+				</message>
+			</day>
+			<day date="2012-10-10">
+				<message from="15101@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="3090852@im.l99.com">
+					<body> sdfsf
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349837973877</sendTime>
+				</message>
+				<message from="15101@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="3090852@im.l99.com">
+					<body>sfsf
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349837975705</sendTime>
+				</message>
+				<message from="3090852@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="15101@im.l99.com">
+					<body> sfsdf
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349842994017</sendTime>
+				</message>
+				<message from="3090852@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="15101@im.l99.com">
+					<body>03/1349842960338_9p3jdw.png</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349843000130</sendTime>
+				</message>
+				<message from="3090852@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="15101@im.l99.com">
+					<body> bbbb
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349843638985</sendTime>
+				</message>
+				<message from="15101@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="3090852@im.l99.com">
+					<body> cccc
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349843648201</sendTime>
+				</message>
+				<message from="15101@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="3090852@im.l99.com">
+					<body>cucx
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349843667726</sendTime>
+				</message>
+				<message from="3090852@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="15101@im.l99.com">
+					<body>lumx
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349843673412</sendTime>
+				</message>
+				<message from="15101@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="3090852@im.l99.com">
+					<body>00/1349843657181_cms668.jpeg</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349843698106</sendTime>
+				</message>
+				<message from="3090852@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="15101@im.l99.com">
+					<body>gh r
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349843714317</sendTime>
+				</message>
+				<message from="15101@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="3090852@im.l99.com">
+					<body> test
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349846201761</sendTime>
+				</message>
+				<message from="3090852@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="15101@im.l99.com">
+					<body> 121
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349846213552</sendTime>
+				</message>
+				<message from="15101@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="3090852@im.l99.com">
+					<body>test
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349846500316</sendTime>
+				</message>
+				<message from="15101@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="3090852@im.l99.com">
+					<body>30/1349846933297_i25ip1.png</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349846972985</sendTime>
+				</message>
+				<message from="15101@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="3090852@im.l99.com">
+					<body>11/1349847509935_wxr59n.jpg</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349847549693</sendTime>
+				</message>
+				<message from="15101@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="3090852@im.l99.com">
+					<body>13/1349847909433_m9wrd7.jpg</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349847949251</sendTime>
+				</message>
+				<message from="15101@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="3090852@im.l99.com">
+					<body>sdff
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349848456624</sendTime>
+				</message>
+				<message to="3090852@im.l99.com" from="15101@im.l99.com/com.l99.web:::1.0:::web:::web">
+					<body>13/1349848807016_ft37m3.png</body>
+					<custom lng="0.0" duration="0"
+						xmlns="http://nyx.l99.com/protocols/message#file" type="image"
+						lat="0.0" name="13/1349848807016_ft37m3.png" />
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349848846701</sendTime>
+				</message>
+				<message to="3090852@im.l99.com" from="15101@im.l99.com/com.l99.web:::1.0:::web:::web">
+					<body>31/1349848846781_7r0nfi.png</body>
+					<custom lng="0.0" duration="0"
+						xmlns="http://nyx.l99.com/protocols/message#file" type="image"
+						lat="0.0" name="31/1349848846781_7r0nfi.png" />
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349848886612</sendTime>
+				</message>
+				<message from="15101@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="3090852@im.l99.com">
+					<body> aa</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349850042397</sendTime>
+				</message>
+				<message from="3090852@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="15101@im.l99.com">
+					<body>21/1349852466632_89su02.png</body>
+					<custom name="21/1349852466632_89su02.png" lat="0.0" type="image"
+						lng="0.0" duration="0" xmlns="http://nyx.l99.com/protocols/message#file" />
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349852506324</sendTime>
+				</message>
+				<message from="15101@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="3090852@im.l99.com">
+					<body> as
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349854775079</sendTime>
+				</message>
+				<message from="3090852@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="15101@im.l99.com">
+					<body>sa
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349854785161</sendTime>
+				</message>
+				<message from="15101@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="3090852@im.l99.com">
+					<body>qw
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349855022106</sendTime>
+				</message>
+				<message from="15101@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="3090852@im.l99.com">
+					<body> sddsd
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349855469647</sendTime>
+				</message>
+				<message from="15101@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="3090852@im.l99.com">
+					<body>as
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349855602654</sendTime>
+				</message>
+				<message from="15101@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="3090852@im.l99.com">
+					<body>sfsdf
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349859103907</sendTime>
+				</message>
+				<message from="15101@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="3090852@im.l99.com">
+					<body>sdsd
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349859228590</sendTime>
+				</message>
+				<message from="15101@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="3090852@im.l99.com">
+					<body>aaa
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349859336314</sendTime>
+				</message>
+				<message from="15101@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="3090852@im.l99.com">
+					<body>sds
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349859493411</sendTime>
+				</message>
+				<message from="15101@im.l99.com/com.l99.web:::1.0:::web:::web"
+					to="3090852@im.l99.com">
+					<body>aaa
+					</body>
+					<sendTime xmlns="http://nyx.l99.com/protocols/message#send_time">1349859515673</sendTime>
+				</message>
+			</day>
+		</msgs>
+	</query>
+</iq>

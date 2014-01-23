@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding="gb2312"?>
+<dataset>
+<student id="0001" name="翁仔" sex="m" birthday="1979-12-31"/>
+<student id="0002" name="王翠花" sex="f" birthday="1982-08-09"/>
+<student id="0088" name="王耳朵" sex="m" birthday="1982-01-01"/>
+</dataset>

@@ -1,0 +1,5 @@
+<!DOCTYPE dataset SYSTEM "my-dataset.dtd">
+<dataset>
+    <eatables_user accountId="1" title="1" level="1" exp="1" clientInfo="1" deviceId="1" createTime="2012-05-30 12:12:12" lastLogin="2012-05-30 12:12:12" lat="1" lng="1" eatablesInfo="1" status="1" guideStep="1"/> 
+    <eatables_user accountId="2" title="2" level="2" exp="2" clientInfo="2" deviceId="2" createTime="2012-05-30 12:12:12" lastLogin="2012-05-30 12:12:12" lat="2" lng="2" eatablesInfo="2" status="2" guideStep="2"/> 
+</dataset>
