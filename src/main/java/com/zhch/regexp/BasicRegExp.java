@@ -25,9 +25,25 @@ public class BasicRegExp {
 		Matcher m = p.matcher(url);
 		System.out.println("find:" + m.find());
 	}
+	
+	public void kuohao(){
+		Pattern p = Pattern.compile("((aa)(bb))((cc)(dd))");
+		String url = "aabbccddeeffgghh";
+		Matcher m = p.matcher(url);
+		
+		// group的序号就是从左边开始第几个左括号
+		if(m.find()){
+			System.out.println(m.group(1));
+			System.out.println(m.group(2));
+			System.out.println(m.group(3));
+			System.out.println(m.group(4));
+			System.out.println(m.group(5));
+			System.out.println(m.group(6));
+		}
+	}
 
 	public static void main(String[] args) {
 		BasicRegExp t = new BasicRegExp();
-		t.youkuVideo();
+		t.kuohao();
 	}
 }
